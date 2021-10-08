@@ -1,6 +1,6 @@
 # STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations
 
-This repository contains data and code for the paper [STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations](www.arxiv.com).
+This repository contains data and code for the paper [STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations](https://arxiv.com).
 
 
 
