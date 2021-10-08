@@ -1,6 +1,6 @@
-# STR-5500: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations
+# STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations
 
-This repository contains data and code for the paper [STR-5500: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations](arxiv.com).
+This repository contains data and code for the paper [STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations](www.arxiv.com).
 
 
 
@@ -8,10 +8,16 @@ This repository contains data and code for the paper [STR-5500: A Dataset of Sem
 
 - The dataset consists of 5500 English sentence pairs that are scored and ranked on a relatedness scale ranging from 0 (least related) to 1 (most related). 
 
-- The sentence pairs, and associated scores, are in the file str5000_ranked.csv in the root directory. The CSV file can be read into a pandas dataframe using:
+- The sentence pairs, and associated scores, are in the file sem_text_rel_ranked.csv in the root directory. The CSV file can be read using:
 
   ```python
-  str_df = pd.read_csv('str5500_ranked.csv')
+  import pandas as pd
+  
+  str = pd.read_csv('sem_text_rel_ranked.csv')
+  
+  row = str.loc[0]
+  sent1, sent2 = row['Text'].split("\n")
+  score = row['Score']
   ```
 
 - Relevant columns: 
