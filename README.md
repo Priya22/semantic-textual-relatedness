@@ -4,6 +4,18 @@ This repository contains data and code for the paper [What Makes Sentences Seman
 
 We hope that this work will spur further research on understanding sentence--sentence relatedness, methods of sentence representation, measures of semantic relatedness, and their applications.
 
+### Citing our work 
+Please use the following BibTex entry to cite us if you use our dataset or any of the associated analyses:
+
+```
+@article{,
+  title={What Makes Two Sentences Semantically Related: A Dataset and An
+  Empirical Study},
+  author={},
+  journal={arXiv preprint},
+  year={2021}
+}
+```
 
 ## Dataset Description
 
@@ -53,15 +65,9 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
 - File `mturk_data/id2sents.csv` pairs each sentence pair with the corresponding SourceID, SubsetID, and PairID that indicates the source dataset (see Table 2 of our paper).
 - See file `mturk_data/task_intructions.txt` for the instructions provided to annotators for our task.
 
-## Citing our dataset 
-Please use the following BibTex entry to cite us if you use our dataset or any of the associated analyses:
 
-```
-@article{,
-  title={What Makes Two Sentences Semantically Related: A Dataset and An
-  Empirical Study},
-  author={},
-  journal={arXiv preprint },
-  year={2021}
-}
+## Datasheet for STR-2021
+The datasheet for our dataset is in the document `datasheet_for_str2021.pdf` in the root folder of this repository.
 
+## Ethics Statement
+Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
