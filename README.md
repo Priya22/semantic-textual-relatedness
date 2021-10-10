@@ -1,6 +1,6 @@
-# STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations
+#  What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study  
 
-This repository contains data and code for the paper [STR-2021: A Dataset of Semantic Textual Relatedness Created from Comparative Annotations](https://arxiv.com). 
+This repository contains data and code for the paper [What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study ](https://arxiv.com). 
 
 We hope that this work will spur further research on understanding sentence--sentence relatedness, methods of sentence representation, measures of semantic relatedness, and their applications.
 
