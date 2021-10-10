@@ -1,0 +1,128 @@
+Sentence Pair Relatedness AMT Questionnaire
+
+Summary Instructions 
+In each HIT, yYou will be given four sentence pairs. Your task is to judge the relatedness of each pair and tell us:
+the sentence pair that is the MOST related (closest in meaning).
+the sentence pair that is the LEAST related (farthest in meaning)
+Carefully read the full set of instructions by clicking on  ‘View Instructions’ and selecting the ‘Detailed Instructions’ tab. See examples in the ‘Examples’ tab.
+Important Notes
+Sentence pairs can be related in many ways. Consider the entire meaning of the sentences before selecting the most related.
+
+
+Often sentence pairs that are more specific in what they share tend to be more related than sentence pairs that are only loosely about the same topic.
+
+
+If a sentence has more than one interpretation, consider that meaning which is closest to the meaning of the other sentence in the pair. If both sentences have multiple meanings,then consider those meanings that are closest to each other.
+
+
+If in the given set of four pairs, two (or more) sentence pairs are equally related to each other and they are also the most related pairs, then select either one of them as the most related. Similarly, if two (or more) equally related pairs are also the least related pairs, then select either one of them as the least related.
+
+
+Some questions have pre-determined correct answers. If you mark these questions incorrectly, we will give you immediate feedback in a pop-up box. We will keep track of your answers for these gold questions. If you mark too many of these incorrectly, it might lead to rejection of your HITs, upon further scrutiny.
+
+
+……………………………………………………………………………………………………
+
+Detailed Instructions
+Introduction:
+Attempt these questions only if you are fluent in English.
+Your responses are confidential.
+
+
+Task:
+Fluent speakers of a language can judge the relatedness (closeness in meaning) of sentence pairs. For example, most people will agree that ‘Jack went up the hill’ and ’Jill likes hiking in the hill’ are more related (closer in meaning) than ‘Fish like water’ and ‘Mary has a pet fish’. Often sentence pairs that are more specific in what they share tend to be more related than sentence pairs that are only loosely about the same topic.
+In each HIT, yYou will be given four English sentence pairs. Your task is to judge the relatedness of each pair and tell us:
+the sentence pair that is the MOST RELATED (closest in meaning).
+the sentence pair that is the LEAST RELATED (farthest in meaning).
+ Each HIT will have 5 such questions.
+Purpose of the task:
+Your responses will be used in a research study to better understand relatedness of sentence pairs and train automated algorithms which can automatically predict relatedness of sentences.
+Notes:
+Sentence pairs can be related in many ways. Consider the entire meaning of the sentences before selecting the most related. 
+
+
+If a sentence has more than one interpretation, consider that meaning which is closest to the meaning of the other sentence in the pair. If both sentences have multiple meanings, then consider those meanings that are closest to each other.
+
+
+If two (or more) sentence pairs are equally related, and both are MOST RELATED (among the four options), then choose any one of these equally related sentence pairs as the MOST RELATED sentence pair.
+
+
+If two (or more) sentence pairs are equally related, and both are LEAST RELATED (among the four options), then choose any one of these equally related sentence pairs as the LEAST RELATED sentence pair.
+
+
+You cannot select the same sentence pair for both the categories.
+
+
+Responses that are not in accordance with the instructions will not be paid for.
+
+
+Some questions have pre-determined correct answers. If you mark these questions incorrectly, we will give you immediate feedback in a pop-up box. We will keep track of your answers for these gold questions. If you mark too many of these incorrectly, it might lead to rejection of your HITs, upon further scrutiny.
+
+
+The sentences included in this task may contain foul language, though we have attempted to limit this.
+
+
+Try not to overthink the answer. Let your instinct guide you.
+
+ ………………………………………………………………………………………………….
+
+Examples
+Q1. Which of the four sentence pairs below is MOST RELATED? Which pair is LEAST RELATED?
+Pair 1:    My personal favorites from Narnia were the conversations between Aslan and Bree.
+    --
+    This marks my progress through the Chronicles, picked up after reading The Narnia Code and Planet Narnia.
+Pair 2:     why won't she ask me out?
+    --
+    and after all that you wont have to worry about getting a girl to like you.
+Pair 3:     A group of people are sitting on the grass outside of a rustic building.
+    --
+    Group sitting on a grassy hill resting.
+Pair 4:     If you change me back, I will feed each one of your snakes a large mouse!
+    -- 
+    Offer people who join cash and coupons.
+Most Related: Pair 3 
+Explanation: both sentences are talking about a group sitting/resting in grass. 
+Least Related: Pair 4 
+Explanation: Pair 4 sentences are completely unrelated, whereas the other pairs have some relatedness. 
+Pair 1 sentences are somewhat related, as they talk about Narnia/characters in that world (Aslan and Bree are characters in Narnia). However, the content of this sentence pair is not as related as Pair 3.
+Pair 2 sentences are both talking about romantic relationships. 
+
+Q2. Which of the four sentence pairs below is MOST RELATED? Which pair is LEAST RELATED?
+Pair 1: That and a kids meal.
+    --
+    My two kids, ages 5 and 3!
+Pair 2: The spines , which may be up to 50 mm long , are modified hairs , mostly made of keratin .
+    --
+    The simplest shape is the long opening with a pointed arch known in England as the lancet .
+Pair 3: A woman wearing a white shirt and a red headband is sitting outside.
+    --
+    Two women stand outside a library.
+Pair 4: Ayodhya , capital of King Rama is mentioned on the banks of Sarayu river .
+    --
+    Ramayana mentions that city of Ayodhya was situated on the bank of Sarayu river .
+Most Related: Pair 4
+Explanation: Both sentences are talking about the same city and mention that it is on the bank of river Sarayu.
+Least Related: Pair 2
+Explanation: Pair 2 sentences are completely unrelated. 
+Pair 3 sentences both refer to at least one woman outside. 
+Pair 1 sentences refer to kids or kid-related things (making them slightly close in meaning). 
+
+Q3. Which of the four sentence pairs below is MOST RELATED? Which pair is LEAST RELATED?
+Pair 1: IBM has not shifted its focus from mainframes to compete with Windows
+    --
+    In 3 years, IBM has not been interested in the PC.
+Pair 2: I wanted to see the scene where Quinn told the brotherhood he was in love with Blay.
+    --
+    I also would have liked to see the scene where Qhuinn asks Blay's dad for permission to propose to Blay.
+Pair 3: Jeremy desperately needs a stable home.
+    --
+    Furnishings were a angle bed, a stool, and a chamber pot on the dirt floor.
+Pair 4: That's difficult. They're both great
+    --
+    thats really hard they are both great!
+Most Related: Pair 4
+Explanation: Both sentences are paraphrases of each other. (Pair 1 and Pair 2 are quite related but not as exact paraphrases as Pair 4)
+Least Related: Pair 3
+Explanation: Pair 3 sentences are somewhat related as they talk about house furnishings. However, they are still less related than all the other pairs.
+Pair 1 sentences both refer to IBM and their business strategy. We consider this to be more related than Pair 3 because it’s more specific in the details they share.
+Pair 2 sentences talk about the same characters and their desire to see the romantic situation (again much more specific in what they share than Pair 3).
