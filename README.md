@@ -10,11 +10,9 @@ We hope that this work will spur further research on understanding sentence--sen
 The dataset consists of 5500 English sentence pairs that are scored and ranked on a relatedness scale ranging from 0 (least related) to 1 (most related). 
 
 ### Why Semantic Relatedness?
-Closeness of meaning can be of two kinds: semantic relatedness and semantic similarity. Two sentences are considered semantically similar when they have a paraphrasal or entailment relation, whereas relatedness accounts for all of the commonalities that can exist between two sentences. 
+Closeness of meaning can be of two kinds: semantic relatedness and semantic similarity. Two sentences are considered semantically similar when they have a paraphrasal or entailment relation, whereas relatedness accounts for all of the commonalities that can exist between two sentences. Semantic relatedness is central to textual coherence and narrative structure. Automatically determining semantic relatedness has many applications such as question answering, plagiarism detection, text generation (say in personal assistants and chat bots), and summarization. 
 
 Prior NLP work has focused on semantic similarity (a small subset of semantic relatedness), largely because of a dearth of datasets. In this paper, we present the first manually annotated dataset of sentence--sentence semantic relatedness. It includes fine-grained scores of relatedness from 0 (least related) to 1 (most related) for 5,500 English sentence pairs. The sentences are taken from diverse sources and thus also have diverse sentence structures, varying amounts of lexical overlap, and varying formality.
-
-Semantic relatedness is central to textual coherence and narrative structure. Automatically determining semantic relatedness has many applications such as question answering, plagiarism detection, text generation (say in personal assistants and chat bots), and summarization. 
 
 ### Comparative Annotations and Best-Worst Scaling 
 Most existing sentence-sentence similarity datasets were annotated, one item at a time, using coarse rating labels such as integer values between 1 and 5\@ representing coarse degrees of closeness. It is well documented that such approaches suffer from inter- and intra-annotator inconsistency, scale region bias, and issues arising due to the fixed granularity.
