@@ -41,8 +41,8 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
   - Score: The semantic relatedness score between 0 and 1. 
 
 - Additionally:
-  - the SourceID (nmt,f) column indicates the source dataset from which the sentence pair was drawn
-  - The SubsetID column indicates the sampling strategy used for the source dataset (_pp, _r)
+  - the SourceID column indicates the source dataset from which the sentence pair was drawn (see Table 2 of our paper)
+  - The SubsetID column indicates the sampling strategy used for the source dataset
   - and the PairID is a unique identifier for each pair that indicates its Source and Subset.
 
 
