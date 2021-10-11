@@ -55,7 +55,7 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
 - Additionally:
   - the SourceID column indicates the source dataset from which the sentence pair was drawn (see Table 2 of our paper)
   - The SubsetID column indicates the sampling strategy used for the source dataset
-  - and the PairID is a unique identifier for each pair that indicates its Source and Subset.
+  - and the PairID is a unique identifier for each pair that also indicates its Source and Subset.
 
 
 ## Raw Annotations from Amazon Mechanical Turk
@@ -71,3 +71,9 @@ The datasheet for our dataset is in the document `datasheet_for_str2021.pdf` in 
 
 ## Ethics Statement
 Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
+
+## Contact
+You can contact the creators of this dataset at:
+- msa@cs.toronto.edu (Mohamed Abdalla, University of Toronto)
+- vkpriya@cs.toronto.edu (Krishnapriya Vishnubhotla, University of Toronto)
+- saif.mohammad@nrc-cnrc.gc.ca (Saif Mohammad, National Research Council Canada)
