@@ -10,7 +10,7 @@ Please use the following BibTex entry to cite us if you use our dataset or any o
 ```
 @misc{abdalla2021makes,
       title={What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study}, 
-      author={Abdalla, Mohamed and Vishnubhotla, Krishnapriya and Mohammad, Saif M},
+      author={Abdalla, Mohamed and Vishnubhotla, Krishnapriya and Mohammad, Saif M.},
       year={2021},
       eprint={2110.04845},
       archivePrefix={arXiv},
@@ -73,8 +73,9 @@ The datasheet for our dataset is in the document `datasheet_for_str2021.pdf` in 
 ## Ethics Statement
 Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
 
-## Contact
-You can contact the creators of this dataset at:
-- msa@cs.toronto.edu (Mohamed Abdalla, University of Toronto)
-- vkpriya@cs.toronto.edu (Krishnapriya Vishnubhotla, University of Toronto)
-- saif.mohammad@nrc-cnrc.gc.ca (Saif Mohammad, National Research Council Canada)
+## Creators
+- [Mohamed Abdalla](https://www.cs.toronto.edu/~msa/index_all.html) (University of Toronto)
+- [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
+- [Saif M. Mohammad](http://saifmohammad.com/) (National Research Council Canada)
+
+**Contact**: msa@cs.toronto.edu, vkpriya@cs.toronto.edu, saif.mohammad@nrc-cnrc.gc.ca
