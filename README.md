@@ -68,7 +68,7 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
 
 
 ## Datasheet for STR-2021
-The datasheet for our dataset is in the document `STR2021_datasheet.pdf` in the root folder of this repository.
+The datasheet for our dataset is in the document `STR2021-datastatement.pdf` in the root folder of this repository.
 
 ## Ethics Statement
 Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
