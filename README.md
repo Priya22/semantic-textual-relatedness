@@ -1,4 +1,4 @@
-#  What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study  
+#  What Makes Sentences Semantically Related? A Textual Relatedness Dataset and Empirical Study  
 
 This repository contains data and code for the paper [What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study ](https://arxiv.org/abs/2110.04845). 
 
