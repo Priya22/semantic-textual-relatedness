@@ -71,7 +71,7 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
 The datasheet for our dataset is in the document `STR2022-datastatement.pdf` in the root folder of this repository.
 
 ## Ethics Statement
-Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
+Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 10 of our paper.
 
 ## Creators
 - [Mohamed Abdalla](https://www.cs.toronto.edu/~msa/index_all.html) (University of Toronto)
