@@ -18,7 +18,7 @@ Please use the following BibTex entry to cite us if you use our dataset or any o
 }
 ```
 
-## Dataset Description
+## STR-2022: Dataset Description
 
 The dataset consists of 5500 English sentence pairs that are scored and ranked on a relatedness scale ranging from 0 (least related) to 1 (most related). 
 
@@ -67,8 +67,8 @@ Specifically, we use Best-Worst Scaling, a comparative annotation method}, which
 - See file `mturk_data/task_intructions.txt` for the instructions provided to annotators for our task.
 
 
-## Datasheet for STR-2021
-The datasheet for our dataset is in the document `STR2021-datastatement.pdf` in the root folder of this repository.
+## Datasheet for STR-2022
+The datasheet for our dataset is in the document `STR2022-datastatement.pdf` in the root folder of this repository.
 
 ## Ethics Statement
 Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 8 of our paper.
