@@ -73,6 +73,10 @@ The datasheet for our dataset is in the document `STR2022-datastatement.pdf` in 
 ## Ethics Statement
 Any dataset of semantic relatedness entails several ethical considerations. We talk about this in Section 10 of our paper.
 
+## Relevant Links
+- [STR-2022 on the HuggingFace Hub](https://huggingface.co/datasets/vkpriya/str-2022)
+- [Zenodo page](https://zenodo.org/record/7599667)
+
 ## Creators
 - [Mohamed Abdalla](https://www.cs.toronto.edu/~msa/index_all.html) (University of Toronto)
 - [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
