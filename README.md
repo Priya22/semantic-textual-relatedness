@@ -8,13 +8,13 @@ We hope that this work will spur further research on understanding sentence--sen
 Please use the following BibTex entry to cite us if you use our dataset or any of the associated analyses:
 
 ```
-@misc{abdalla2021makes,
-      title={What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study}, 
+@inproceedings{abdalla2021makes,
+      title={What Makes Sentences Semantically Related: A Textual Relatedness Dataset and Empirical Study},
       author={Abdalla, Mohamed and Vishnubhotla, Krishnapriya and Mohammad, Saif M.},
-      year={2021},
-      eprint={2110.04845},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      year={2023},
+      address = {Dubrovnik, Croatia},
+      publisher = "Association for Computational Linguistics",
+      booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume"
 }
 ```
 
